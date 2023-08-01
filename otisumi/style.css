@@ -1,12 +1,12 @@
 .nav-link{
-    color: rgb(250, 242, 242) !important;
+    color: rgb(0, 0, 0) !important;
     
     
     margin:  0 20px;
 }
 
 .navbar-brand{
-    color: white !important;
+    color: black !important;
 }
 
 h5{
@@ -17,5 +17,6 @@ h5{
 
 h2{
     text-align: center;
+    color: black !important;
     margin-top: 40px ;
 }
